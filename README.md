@@ -21,7 +21,7 @@
 
 
 - 🔭 I’m currently working on [ReactJS](https://reactjs.org/).
-- 🌱 I’m currently learning more about Devops.
+- 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on Live Projects.
 - 🤔 I’m looking for help with SDE Roles.
 - 💬 Ask me about JavaScript or any tech-related stuff.
